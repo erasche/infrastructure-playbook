@@ -36,7 +36,7 @@ local_users:
     uid: 2050
     gid: 2051
     group: esr
-    comment: Eric Rasche
+    comment: Helena Rasche
     home: /home/erasche
     shell: /bin/bash
   - name: nate
